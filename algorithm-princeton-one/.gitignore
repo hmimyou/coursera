@@ -1,0 +1,5 @@
+*/.*
+*/*.class
+*/*.zip
+.DS_Store
+.meta*
