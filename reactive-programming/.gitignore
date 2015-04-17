@@ -4,3 +4,4 @@ project/target/
 .classpath
 .settings/
 target/
+.cache
